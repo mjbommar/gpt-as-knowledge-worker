@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GPT CPA Exam Session - {{session_id}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+</head>
+<body style="padding: 1em; margin: 1em;">
+    <h1>GPT CPA Exam Session</h1>
+    <h2>Session ID: {{ session_id }}</h2>
+    <div class="row-no-gutters card" style="padding: 1em; margin: 1em">
+        <h3>Session Timing:</h3>
+        <ul>
+            <li>Start Time: {{ start_time }}</li>
+            <li>End Time: {{ end_time }}</li>
+            <li>Duration: {{ duration }}</li>
+        </ul>
+    </div>
+    <hr />
+    <div class="row-no-gutters card" style="padding: 1em; margin: 1em">
+    <h3>Session Parameters:</h3>
+    <ul>
+        <li><strong>prompt_method:</strong> {{ prompt_method }}</li>
+        {% for param in parameters %}
+        <li><strong>{{ param }}:</strong> {{ parameters[param] }} </li>
+        {% endfor %}
+    </ul>
+    </div>
+
+    <h2>Exam Log</h2>
+    {% for question in questions %}
+    <div class="card" style="width: 100%; margin-bottom: 10px; justify-content: center; text-align: justify; padding: 2em;">
+        <h3>{{ question["question_section"] }} - {{ question["question_number"] }}</h3>
+        <h5>Prompt: </h5>
+        {% autoescape true %}
+        <p style="white-space: pre-wrap;">{{ question['model_prompt'] | e }}</p>
+        <h5>Response:</h5>
+        <pre style="color: #000000; background-color: rgba(0.0, 0.0, 0.0, 0.05); white-space: pre-wrap; padding: 0.5em; border: 1px solid rgba(0.0, 0.0, 0.0, 0.1); border-radius: 0.5em;">{{ question['model_response']['choices'][0]['text'] | trim | e }}</pre>
+        <h5>Correct Answer: {{ question["correct_answer"] }}</h5>
+        <!-- make a green check mark if correct, red x if incorrect -->
+        {% if question["is_correct"] %}
+        <h5 style="color: green;">✔ Correct</h5>
+        {% else %}
+        <h5 style="color: red;">✗ Incorrect</h5>
+        {% endif %}
+        {% endautoescape %}
+        <h6>Debug Info</h6>
+        <ul>
+            <li><strong>Request ID:</strong> {{ question['model_response']['id'] }}</li>
+            <li><strong>Model:</strong> {{ question['model_response']['model'] }}</li>
+            {% for key in question['model_response']['usage'] %}<li><strong>{{ key }}:</strong> {{ question['model_response']['usage'][key] }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endfor %}
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+</body>
+</html>
