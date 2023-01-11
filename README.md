@@ -33,6 +33,14 @@
 </div>
 <hr />
 
+### Suggestions or Corrections
+Do you think you've found a mistake or ambiguity in the questions?
+
+Want to suggest additional questions for inclusion into future updates to the paper?
+
+Please use the GitHub Issue tracker here to submit your ideas.  Thank you!
+
+
 ## Links
 * [Questions for Assessment 2](data/questions_02.txt) 
 * [Prompts](src/prompts.py)
@@ -44,11 +52,11 @@
 ## Figures
 ### Performance over Time on Assessment 2
 <picture>
-   <img src="https://github.com/mjbommar/gpt-as-knowledge-worker/blob/main/model_progression.png?raw=true" />
+   <img src="https://github.com/mjbommar/gpt-as-knowledge-worker/blob/main/figures/model_progression.png?raw=true" />
  </picture>
 
 ### Performance by Section in Assessment 2
 <picture>
-   <img src="https://github.com/mjbommar/gpt-as-knowledge-worker/blob/main/best_model_performance_by_section.png?raw=true" />
+   <img src="https://github.com/mjbommar/gpt-as-knowledge-worker/blob/main/figures/best_model_performance_by_section.png?raw=true" />
  </picture>
 
