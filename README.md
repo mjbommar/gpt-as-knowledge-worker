@@ -1,5 +1,5 @@
 <div style="font-size: 2em;text-align: center; padding-bottom: 8px;">
-    <span>GPT as Knowledge Worker:</span>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4322372"><span>GPT as Knowledge Worker</span></a>
     <br />
     <span>A Zero-Shot Evaluation of (AI)CPA Capabilities</span>
 </div>
