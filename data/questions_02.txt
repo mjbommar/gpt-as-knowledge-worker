@@ -1,0 +1,1623 @@
+<S>REG
+<Q>1. Which of the following parties may not practice before the Internal Revenue Service?
+A. Attorneys
+B. Certified public accountants
+C. Enrolled agents
+D. Non-enrolled actuaries
+<A>D
+
+<Q>2. Which of the following parties would not be considered a tax preparer?
+A. A CPA who, for compensation, prepares all or substantially all of a tax return, but does not sign the return
+B. A CPA who prepares tax returns under a Volunteer Income Tax Assistance (VITA) program established by the IRS
+C. An accountant who, for compensation, furnishes the taxpayer with sufficient advice and information for the taxpayer to complete the return on their own in a merely clerical matter
+D. An attorney who, for compensation, provides legal advice to a client on how to address a completed corporate transaction that has a significant impact on the tax return
+<A>B
+
+<Q>3. Which of the following scenarios could result in a penalty to the tax preparer?
+A. The preparer takes a position with substantial authority
+B. The preparer fails to perform sufficient due diligence with respect to determining eligibility to file as head of household
+C. The preparer retains a copy of the tax return for a period of 3 years after the close of the return period
+D. The preparer provides the taxpayer with a copy of the return at the time the taxpayer signs the return
+<A>B
+
+
+<Q>4. Which professional body can grant or revoke a CPA’s license?
+A. American Institute of Certified Public Accountants (AICPA)
+B. National Association of State Boards of Accountancy (NASBA)
+C. The relevant State Board of Accountancy
+D. Financial Accounting Standards Board (FASB)
+<A>C
+
+<Q>5. If a taxpayer disagrees with the changes proposed by an IRS examiner, which of the following is not a possible outcome?:
+A. The taxpayer appeals their case administratively within the IRS
+B. The taxpayer appeals their case to the U.S. Court of Federal Claims
+C. The taxpayer appeals their case to the U.S. Tax Court
+D. The taxpayer appeals their case to District Tax Court in the judicial district in which they resides or have their principal place of business
+<A>D
+
+<Q>6. Which of the following is a true statement regarding the US Tax Court?
+A. The Court can issue summary decisions, regular decisions, and memorandum decisions
+B. Taxpayers are required to pay the disputed tax prior to the Court hearing the case
+C. Jury trials are available if requested
+D. The Court’s decisions are always considered precedent
+<A>A
+
+
+<Q>7. At which level of confidence is the disclosure of a tax position required in order to avoid penalties?
+A. Substantial authority
+B. More likely than not
+C. Reasonable basis
+D. Frivolous
+<A>C
+
+<Q>8. Which of the following statements regarding accuracy-related taxpayer penalties is correct?
+A. A substantial understatement penalty applies if the tax liability is understated by the greater of 20% of the correct tax or $5,000
+B. Claiming a §199A Qualified Business Deduction reduces the threshold at which a substantial understatement penalty applies
+C. The IRS charges interest on the underpayment, but not on the penalty
+D. Failure to keep records supporting the qualification of credits claimed is not an example of negligence
+<A>B
+
+<Q>9. Which of the following shows the correct hierarchy of authority for federal tax purposes, from highest authority to lowest?
+A. Internal Revenue Code, Treasury Regulations, U.S. Tax Court, Revenue Rulings
+B. Internal Revenue Code, U.S. Tax Court, Private Letter Ruling, Treasury Regulations
+C. Treasury Regulations, Internal Revenue Code, Revenue Procedures, IRS Notices
+D. Internal Revenue Code, Revenue Rulings, Treasury Regulations, U.S. Tax Court
+<A>A
+
+<Q>10. A tax return preparer has which of the following obligations to their client?:
+A. To minimize the client’s taxes by any means
+B. To use all ethical and legal means available to the client to minimize their taxes
+C. To take the most conservative approach with respect to claiming deductions
+D. To sign the client’s return, even when the preparer knows it to be materially incorrect
+<A>B
+
+<Q>11. Which statement most accurately reflects privileged communications as they relate to tax matters?
+A. Federal law generally does not recognize accountant-client privilege, but a limited number of states do
+B. Federal law generally does not recognize accountant-client privilege, but nearly all states do
+C. Federal law does generally recognize accountant-client privilege, without exception
+D. Federal law does generally recognize accountant-client privilege, but only with respect to workpapers
+<A>A
+
+<Q>12. All of the following are ways in which agency power can arise, except:
+A. Actual authority
+B. Apparent authority
+C. Ratification by a disclosed principal
+D. Ratification by an undisclosed principal
+<A>D
+
+<Q>13. Which of the following is not a duty an agent owes to a principal?
+A. Duties expressly stated in the contract
+B. Duty of capacity
+C. Duties of obedience
+D. Duty of loyalty
+<A>B
+
+<Q>14. Which of the following is not a required element of a legally enforceable contract?
+A. The contract includes mutual assent
+B. The contract is made in writing
+C. The contract does not contain defenses
+D. The contract includes sufficient consideration
+<A>C
+
+<Q>15. Which of the following types of contract does not require a written element in order to be enforceable?
+A. Contracts for the sale of goods for $500 or more
+B. Contracts to act as surety
+C. Contracts for the sale of a house
+D. Contracts for leases of land for less than one year
+<A>D
+
+<Q>16. Which of the following is not a permissible condition for payment?
+A. Condition precedent
+B. Condition concurrent
+C. Condition consecutive
+D. Condition subsequent
+<A>C
+
+<Q>17. Which of the following is not a way in which a party to a contract can be discharged?:
+A. When a minor breach occurs
+B. Through a substituted contract
+C. Through rescission of the contract
+D. Through performance of all obligations
+<A>A
+
+<Q>18. Which of the following is not a possible form of remedy to which the nonbreaching party could be entitled?
+A. Consequential damages as a result of the breach
+B. Punitive damages for a fraudulent act
+C. Rescission of the contract
+D. Specific performance for personal services
+<A>D
+
+<Q>19.  A surety has which of the following rights?
+Right I. Right to indemnification by the principal debtor
+Right II. Right to compel the creditor to collect from the principal debtor
+Right III. Right to exoneration by the principal debtor
+Right IV. Right of subrogation of creditor’s rights against the principal debtor, but only before the surety has paid the principal debtor’s obligation
+
+A. I and II
+B. I, II, and III
+C. II, III, and IV
+D. I and III
+<A>D
+
+<Q>20. Which of the following types of bankruptcy is not available to individuals?
+A. Chapter 7
+B. Chapter 9
+C. Chapter 11
+D. Chapter 13
+<A>B
+
+<Q>21. Which of the following is an instance in which unsecured creditors could petition into involuntary bankruptcy proceedings?
+A. There are 3 creditors, with one owed $20,000
+B. A creditor filed a lien in the public record and 30 days have passed
+C. The debtor is a farmer
+D. The debtor owes $100,000 to the creditors, but is generally paying debts as due
+<A>A
+
+<Q>22. Which of the following scenarios would result in an effective attachment?
+Scenario I. The debtor has rights in the collateral
+Scenario II. The debtor has received value in exchange for the security interest
+Scenario III. The debtor and creditor have a record of the security agreement authenticated by the creditor
+Scenario IV. The debtor has pledged the collateral to the creditor
+
+A. I, II, and III
+B. I, II, and IV
+C. I, III, and IV
+D. II, III, and IV
+<A>B
+
+<Q>23. Which of the following is not a valid means of perfecting a security interest?:
+A. Through possession of pledged tangible property
+B. By filing a financing statement
+C. Through automatic perfection for a purchase money security interest in inventory
+D. Through control over certificated securities in bearer form
+<A>C
+
+<Q>24. An employee’s _________ are subject to FICA; the _________ is responsible for withholding and remitting the employee’s portion of the taxes. A self-employed taxpayer’s ___________ is subject to FICA.
+
+Which of the following options correctly answers all of the blanks in the sentences above?
+A. Gross wages; employee; net profits
+B. After-tax wages; employer; net profits
+C. Gross wages; employer; gross profits
+D. Gross wages; employer; net profits
+<A>D
+
+<Q>25. Which of the following statements is true regarding limited liability companies?
+A. They must always have two or more members
+B. Unless the operating agreement provides otherwise, members may not transfer their entire interest in the LLC without consent of the other members
+C. Voting strength is equal between members, regardless of ownership percentage
+D. Members have the power to bind the LLC when it is manager managed
+<A>B
+
+<Q>26. Which of the following is not required to be included in articles of incorporation under the Revised Model Business Corporation Act?
+A. The name and address of the corporation’s registered agent
+B. The names of the corporation’s initial directors
+C. The names of each of the incorporators
+D. The number of authorized shares to be issued
+<A>B
+
+<Q>27. Which of the following is an incorrect statement regarding limited partnerships?
+A. All partners have limited liability
+B. Limited partners do not owe a fiduciary duty to the partnership
+C. The partnership may only be created pursuant to a state statute
+D. A person may become a limited partner without acquiring a transferable interest
+<A>A
+
+<Q>28. Which of the following parties are not considered to be related parties for federal income tax purposes?
+A. Spouses
+B. Siblings
+C. Entities that are more than 50% owned by the same individual, corporation, trust, or partnership
+D. In-laws
+<A>D
+
+<Q>29. If a purchasing relative sells the acquired property at a price that exceeds the original relative’s basis, the purchasing relative recognizes:
+A. No gain or loss
+B. A gain to the extent that the sale price exceeds the original relative’s basis
+C. A gain to the extent that the sale price exceeds the purchasing relative’s purchase price
+D. A loss to the extent that the purchasing relative’s purchase price exceeds the original relative’s basis
+<A>B
+
+<Q>30. Which of the following would not qualify for a current annual gift exclusion?
+A. Cash given directly to a friend to pay for their medical expenses
+B. A new car purchased for a grandchild
+C. A beach house that will be given to a child if they graduate from an accredited university
+D. A bond given to a sibling, where the bond matures in 20 years
+<A>C
+
+<Q>31. A taxpayer is considered a real estate professional and can fully deduct rental activity losses against other income if:
+
+Scenario I. More than half of their time spent on personal services are in the business of real property in which they materially participate
+Scenario II. Less than half of their time spent on personal services are in the business of real property in which they materially participate
+Scenario III. The taxpayer performs more than 750 hours of services during the tax year in the business of real property in which they materially participate
+
+A. I and III
+B. I or III
+C. II and III
+D. II or III
+<A>A
+
+<Q>32. Which of the following is a requirement for a taxpayer being an eligible “surviving spouse?
+A. The taxpayer’s spouse died during the current tax year
+B. The taxpayer has no dependents
+C. The taxpayer has not remarried prior to the close of the current tax year
+D. The taxpayer could not have filed a joint return with the deceased spouse during the year in which the spouse died
+<A>C
+
+<Q>33. A taxpayer will be ineligible to claim a full dependency for an:
+A. Otherwise qualifying child who dies during the year
+B. Otherwise qualifying relative who is a resident of Canada
+C. Otherwise qualifying child who marries during the year and files a joint return with taxes due
+D. Otherwise qualifying relative child who turns 21 during the year and is a full-time student
+<A>C
+
+<Q>34. In which of the following scenarios could a taxpayer be subject to penalties for failure to pay estimated taxes?
+A. The taxpayer’s W-2 withholding is equal to 90% of the taxpayer’s current year tax
+B. The taxpayer’s W-2 withholding is equal to 110% of the taxpayer’s prior year tax
+C. The taxpayer made no estimated payments and has $500 of tax due at the time of filing for the current year
+D. The taxpayer’s W-2 withholding is equal to 75% of the current year tax and prior year taxes and the balance due at the time of filing is $1,500.
+<A>D
+
+<Q>35. Which of the following is required for a group of corporations to file a consolidated return?
+A. All of the corporations were members of the affiliated group during the tax year
+B. One of the corporations is an S corporation
+C. At least ⅔ of the members of the affiliated group consent to the consolidated return filing
+D. If the corporations are owned by an individual, they hold at least 80% or more of the value of all outstanding stock of each corporation
+<A>A
+
+<Q>36. What does nexus establish within the context of a company’s multi-jurisdictional transaction for tax purposes?
+A. The physical and/or economic presence within a jurisdiction that subjects the company to the jurisdiction’s taxing authority
+B. It establishes uniformity with respect to tax-related court decisions
+C. The threshold for thin capitalization base value calculation
+D. The generally accepted accounting principles that apply to the company
+<A>A
+
+<Q>37. For the purpose of determining income attributable to a specific state or locality, calculation is based on ___________ of business income and _________ for non-business income.
+A. Allocation; Apportionment
+B. Allocation; Assignment
+C. Apportionment; Allocation
+D. Assignment; Apportionment
+<A>C
+
+<Q>38. Which of the following statements about foreign branches and foreign subsidiaries with respect to federal taxation to a US company is correct?
+A. A foreign branch is never treated as a separate legal entity
+B. A foreign branch’s income does not qualify for the reduced tax rate applicable to certain foreign-derived income
+C. A foreign subsidiary and a foreign branch are treated the same for all federal tax purposes
+D. A foreign subsidiary is always disregarded for income tax purposes
+<A>B
+
+<Q>39. Which of the following items of gross income is not treated as foreign-source income for the purpose of calculating the foreign tax credit?
+A. Personal services income for services performed outside of the US
+B. Gains, profits, and income from the disposition of an interest in real property located in the US Virgin Islands
+C. Underwriting income derived from the reinsurance of a property insurance contract in connection with property in the US
+D. Rental income from the lease of a warehouse in Germany
+<A>C
+
+<Q>40. In the absence of any applicable tax treaty, which of the following payments is never subject to withholding for federal tax purposes?
+A. Wages paid to a nonresident alien
+B. Gross investment income from dividends paid to a foreign private foundation
+C. Distribution of effectively connected income to foreign partnerships by publicly traded partnerships
+D. A qualified scholarship paid to a nonresident alien
+<A>D
+
+<Q>41. Which of the following is not considered to be a base erosion payment in the context of Base Erosion Anti-Abuse Tax?
+A. Any amount accrued or paid by the taxpayer to a foreign related party for which a deduction is allowed under chapter 1 of subtitle A of the Internal Revenue Code
+B. Any insurance premium or other consideration accrued or paid by the taxpayer to a foreign related party for reinsurance payments[b]
+C. Any amount accrued or paid by the taxpayer that results in a reduction of the taxpayer’s foreign tax credit
+D. Any amount accrued or paid by the taxpayer to a foreign related party in connection to the acquisition of property from the foreign related party, provided that the property may be depreciated or amortized
+<A>C
+
+<Q>42. When calculating deduction eligible income in the context of foreign-derived intangible income, which of the following types of income is not excluded from gross income?:
+A. Dividends from an unrelated domestic corporation
+B. Foreign branch income
+C. Domestic oil and gas extraction income
+D. Financial services income
+<A>A
+
+<Q>43. Fill in the blank for the following sentence:
+A controlled foreign corporation’s qualified business asset investment amount is based on the average quarterly basis in _________ used in a trade or business for the production of tested income:
+
+A. Amortizable intangible assets
+B. Depreciable tangible property
+C. Capitalized real property
+D. Leased personal property
+<A>B
+
+<Q>44. All of the following are eligible S corporation shareholders, except:
+A. Grantor trusts
+B. 501(c)(3) charitable organizations
+C. Resident alien with a green card
+D. Partnerships
+<A>D
+
+<Q>45. Which of the following situations are prohibited for S corporations?:
+Situation I. Own any interest in a C corporation
+Situation II. Have more than 100 shareholders
+Situation III. Issue preferred stock
+Situation IV. Own 100% of the stock of a qualified S subsidiary
+
+A. II only
+B. II and III
+C. I, II, and III
+D. I, II, III, and IV
+<A>B
+
+
+<Q>46. Which of the following statements regarding S corporation elections for federal income tax purposes is true?
+A. The election may be terminated by an affirmative vote of shareholders owning 33% of the stock
+B. An election that is made after the deadline for the current tax year results in the corporation filing two partial-year tax returns
+C. Consent from non-voting shareholders is not needed to make the election
+D. If an election has been revoked or terminated, the corporation is prohibited from ever re-electing S corporation status
+<A>B
+
+<Q>47. Built-in gains at the corporate-level apply when which of the following scenarios apply?:
+Scenario I. A C corporation elects S corporation status
+Scenario II. An S corporation terminates its S corporation status election
+Scenario III. The fair market value of the corporation’s assets exceed the adjusted basis of those assets on the original election date
+
+A. I and III
+B. I or III
+C. II and III
+D. II or III
+
+<A>A
+
+<Q>48. What is the consequence of a partnership filing a Section §754 election?
+A. It results in an immediate gain on a partner’s capital interest acquired for services rendered
+B. It allows the partnership to push audit adjustments to partners, rather than paying imputed adjustments at the partnership level
+C. It allows the partnership to adjust the basis of the property within a partnership when a triggering event occurs
+D. The partnership may deduct up to $5,000 start-up expenses, rather than capitalize them
+<A>C
+
+<Q>49. Which of the following situations would result in the termination of a partnership for federal tax purposes?
+A. There is a sale of more than 50% of the total interest in partnership capital and profits
+B. The partnership entirely ceases all of its operations
+C. The partnership has three consecutive years of losses
+D. A partner dies
+<A>B
+
+<Q>50. Which of the following is not a possible federal tax treatment of a limited liability company?
+A. Disregarded entity
+B. Partnership
+C. Corporation
+D. Trust
+<A>D
+
+<Q>51. A simple trust may not:
+A. Make distributions out of current income
+B. Make distributions from the trust corpus
+C. Distribute all of its current income
+D. Change to a complex trust in a future year
+<A>B
+
+<Q>52. Which of the following organizations would never qualify as a tax-exempt organization under Section 501(c)(3)?
+A. A horticultural organization
+B. A civic organization that supports political campaigns
+C. A professional football league
+D. A fraternal beneficiary society operating under the lodge system for the exclusive benefit of the members of the fraternity
+<A>B
+
+<Q>53. Unrelated business income generally includes all of the following requirements, except:
+A. It is a trade or business
+B. It is regularly carried out
+C. It is carried out for the convenience of the organization’s members
+D. It is not substantially related to furthering the exempt purpose of the organization
+<A>C
+
+
+
+<S>FAR
+<Q>1. Which party developed the Conceptual Framework for Financial Reporting to serve as the basis for standards development for financial accounting and reporting?
+A. American Institute of Certified Public Accountants
+B. Public Company Accounting Oversight Board
+C. International Accounting Standards Board
+D. Financial Accounting Standards Board
+<A>D
+
+<Q>2. Which is not part of FASB’s due process for establishing standards?
+A. Monitor post-implementation
+B. Issue document for public comment
+C. Implementation
+D. Make agenda decision
+<A>A
+
+<Q>3. Which of the following methods is an acceptable method to record the acquisition of a subsidiary?
+A. Equity method
+B. Cost method
+C. Pooling of interests method
+D. Par value method
+<A>C
+
+<Q>4. Which of the following is not a major component of the Statement of Financial Position?
+A. Assets
+B. Liabilities
+C. Net assets
+D. Retained earnings
+<A>D
+
+<Q>5. Which of the following is not an element required to be presented in a Statement of Activities?
+A. Change in total net assets
+B. Change in permanently restricted net assets
+C. Change in taxable net assets
+D. Change in temporarily restricted net assets
+<A>C
+
+<Q>6. Which of the following statements regarding Statements of Cash Flows for not-for-profit, non-governmental entities is not correct?
+A. Reconciliation of operating cash flows is required if the direct method is used
+B. The typical classifications are operating activities, financing activities, and investing activities
+C. The indirect method is allowed, but not required
+D. Cash received from donors with a requirement to use for endowment funds is reported as a financing activity
+<A>A
+
+
+<Q>7. Which of the following is not a periodic business report that is required to be filed by US-registered companies under the 1934 Act?
+A. Form 10K
+B. Form 10Q
+C. Form 8K
+D. Form 10b-5
+<A>D
+
+<Q>8. Which of the following is a correct statement regarding Forms 10K?
+A. They are required to include compiled financial statements
+B. They are required to be filed quarterly
+C. They are required to include material facts that impact the company’s securities and financial statements
+D. They must be filed within 4 days of a change in the board of directors
+<A>C
+
+<Q>9. Defined benefit plans that present information in accordance with FASB ASC 960 are not required to include which of the following in their financial statements?
+A. Statement of cash flows
+B. Statement of net assets available for benefits as of the end of the plan year
+C. Statement of changes in net assets available for benefits during the current plan year
+D. Actuarial present value of accumulated plan benefits as of the beginning or end of the plan year
+<A>A
+
+<Q>10. Which of the following frameworks is not considered to be a special purpose framework for the basis of accounting?
+A. Cash basis
+B. International Financial Reporting Standards
+C. Tax basis
+D. Contractual basis
+<A>B
+
+<Q>11. All of the following investment types require or allow the use of fair value measurement in financial statements, except:
+A. Hybrid financial instruments
+B. Derivatives
+C. Goodwill
+D. Held-to-maturity debt securities
+<A>D
+
+<Q>12. Which of the following investment types is eligible to be reported in the financial statements at amortized cost?
+A. Available-for-sale equity securities
+B. Available-for-sale debt securities
+C. Held-to-maturity debt securities
+D. Trading equity securities
+<A>C
+
+<Q>13. Which of the following types of investments cannot be accounted for using the equity method?
+A. An investment in which the investor directly holds a controlling financial interest in the investee
+B. Common stock held by an estate
+C. An investment in which the investor exercises significant influence over the investee
+D. A general partnership interest
+<A>B
+
+<Q>14. Which of the following is not a correct statement about intangible assets?
+A. They may or may not be specifically identifiable
+B. The cost of internally developed intangible assets is capitalized
+C. Intangible assets with indefinite lives are amortized
+D. Costs associated with maintaining goodwill are not capitalized
+<A>B
+
+<Q>15. A company could use any of the following factors to consider whether the fair value of goodwill is less than the carrying amount, except:
+A. Declining cash flows
+B. Deteriorating macroeconomic conditions
+C. Decreasing cost of raw materials
+D. Increased competitive environment
+<A>C
+
+<Q>16. Which of the following changes to a debt instrument are treated as a modification of the debt?
+Change I. The present value of the cash flows under the new instrument are greater than 10% different from the present value of the remaining cash flows of the original instrument
+Change II. A substantive conversion option is added
+Change III. The change impacts the fair value of the embedded conversion option by at least 10% of the carrying amount of the original instrument immediately prior to the change
+A. I only
+B. II and III
+C. I, II, and III
+D. None
+<A>D
+
+<Q>17. Which of the following conditions must be true in order for a change to a debt instrument to be considered troubled debt restructuring?
+Condition I. The borrower experiences financial difficulty
+Condition II. The lender grants a concession to the borrower
+A. Condition I only
+B. Condition II only
+C. Both Condition I and II
+D. Either Condition I or II
+<A>C
+
+<Q>18. Which of the following is not an example of an equity security?
+A. Common stock
+B. Non-derivative stock warrant
+C. Forward sale contract
+D. U.S. Treasury securities
+<A>D
+
+<Q>19.  Which of the following is not a criteria that must be met in order for revenue to be recognized?
+A. A contractual obligation exists
+B. The payment terms for services or goods to be transferred can be identified
+C. The contract does not have commercial substance
+D. It is probable that substantially all of the consideration will be collected
+<A>C
+
+<Q>20. Which of the following statements is not correct with respect to compensatory stock options?
+A. The compensation expense is calculated as of the grant date of the options
+B. The options can be valued using the fair value of the options or the market value of the underlying stock
+C. The vesting period is the time over which the right to exercise the options is earned
+D. The grant date is the date on which the options are issued
+<A>B
+
+<Q>21. Which of the following is not an example of an uncertain tax position?
+A. A corporation decides not to register and remit sales taxes in a particular state
+B. A corporation characterizes certain employee’s wages as 100% research and development for the purposes of the R&D Tax credit.
+C. A corporation implements a transfer pricing regime
+D. A corporation excludes a foreign entity from their US tax return
+<A>A
+
+<Q>22. Temporary differences should use the future _________ tax rate in the periods they are expected to be paid or realized.
+A. Anticipated
+B. Proposed
+C. Unsigned
+D. Enacted
+<A>D
+
+<Q>23. A loss contingency must be disclosed, but not accrued if:
+A. The loss is probable and the amount can be reasonably estimated
+B. The loss is probable and the amount cannot be reasonably estimated
+C. The loss is remote and does not relate to a guarantee
+D. The loss relates to unspecified business risks
+<A>B
+
+<Q>24. Which of the following is not an example of a potential embedded derivative in a debt instrument?
+A. Host contract
+B. Conversion option
+C. Put option
+D. Interest rate leverage
+<A>A
+
+<Q>25. The gain or loss on  _________ would be reported in other comprehensive income:
+A. A fair value hedge
+B. The effective portion of a cash flow hedge
+C. The ineffective portion of a cash flow hedge
+D. A foreign currency fair value hedge
+<A>B
+
+<Q>26. Which of the following are correct statements about functional currency?:
+I. It is the currency in which the reporting entity’s financial statements are prepared
+II. It is the currency of the primary economic environment in which the entity operates
+III. It is never the same as the reporting currency
+IV. It may be required to be changed if high inflation is present
+
+A. I and III
+B. II and III
+C. I and IV
+D. II and IV
+
+<A>D
+
+<Q>27. Which of the following is not included in the lessee’s calculation of the aggregate lease payment amount?
+A. Fixed payments, less any incentives paid or payable to the lessee
+B. Indexed variable lease payments
+C. Fees paid by the lessee to the owners of a special-purpose entity for structuring the transaction
+D. The entire potential payment amount that the lessee could owe under a residual value guarantee
+<A>D
+
+<Q>28. Which of the following factors, if present in a lease, would require a lessee to classify a lease as a finance lease?
+Factor I. The ownership of the underlying asset transfers to the lessee by the end of the lease term
+Factor II. The lessee is granted the option to purchase the underlying asset and is reasonably certain to do so
+Factor III. The lease term is for a major portion of the remaining economic life of the underlying asset
+Factor IV. The present value of the sum of the lease payments and any residual value guaranteed by the lessee not already included in the lease payments is substantially all of the fair value of the underlying asset
+
+A. None
+B. Any of Factors I, II, III, or IV
+C. All of Factors I, II, III, and IV
+D. Only Factor IV
+<A>B
+
+<Q>29. A not-for-profit entity recognizes unrestricted support at the time a contribution is received for which of the following types of contributions?:
+Contribution I. Unrestricted unconditional
+Contribution II. Restricted unconditional
+Contribution III. Unrestricted conditional
+Contribution IV. Restricted conditional
+
+A. Condition I
+B. Conditions I and II
+C. Conditions I and III
+D. Conditions II and IV
+<A>B
+
+<Q>30. A not-for-profit acting as an agent or intermediary does not recognize contributions in the statement of activities when which of the following conditions are present?:
+Condition I. The agent has discretion over how the contributions are distributed
+Condition II. The agent has little or no discretion over how the contributions are distributed
+Condition III. The agent is financially interrelated to the third-party donee
+Condition IV. The agent is not financially interrelated to the third-party donee
+
+A. Condition I only
+B. Conditions I and III
+C. Conditions II and III
+D. Conditions II and IV
+<A>D
+
+<Q>31. Which of the following activities would not be considered research and development?
+A. Adaptation of an existing capability to meet a customer’s requirement as part of ongoing commercial activity
+B. Design, construction, and testing of pre-production models and prototypes
+C. Evaluation of product or process alternatives
+D. Engineering activities required to advance the design to meet functional specification requirements for production
+<A>A
+
+
+<Q>32. Which of the following statements are correct regarding the treatment of costs of the development of internal-use software?
+Statement I. During the preliminary project stage, all costs are capitalized
+Statement II. During the application development stage, training costs are expensed as incurred
+Statement III. During the application development stage, fees paid to third parties to develop the software are capitalized
+Statement IV. During the post-implementation-operation stage, routine maintenance costs are expensed as incurred
+
+A. Statements I and II
+B. Statements II and III
+C. Statements II, III, and IV
+D. Statements I, II, III, and IV
+<A>C
+
+<Q>33. Which of the following statements is/are correct regarding subsequent events?
+Statement I. Recognized subsequent events provide additional information or evidence about conditions that existed at the balance sheet date
+Statement II. Nonrecognized subsequent events provide additional information or evidence about conditions that did not exist at the date of the balance sheet, but arose after that date
+Statement III. The financial impact of recognized subsequent events must be recognized in the financial statements
+Statement IV. Nonrecognized subsequent events never require disclosure
+
+A. Statements I and II
+B. Statements II and III
+C. Statements I, III, and III
+D. Statements I, II, III, and IV
+<A>C
+
+<Q>34. Which of the following is the highest level of the input hierarchy for fair value measurement?
+A. Non-quoted observable inputs
+B. Observable data from active markets
+C. Unobservable inputs
+D. Non-active market comparables
+<A>B
+
+<Q>35. State and local government accounting is intended to effect:
+A. Fiscal accountability
+B. Operational accountability
+C. Both fiscal and operational accountability
+D. None of the above
+<A>C
+
+<Q>35. The primary authority for state and local government accounting standards is the:
+A. Financial Accounting Standards Board (FASB)
+B. Government Accounting Standards Board (GASB)
+C. Government Accountability Office (GAO)
+D. American Institute of Certified Public Accountants (AICPA)
+<A>B
+
+<Q>36. What is the basis of state and local government accounting?
+A. Cash basis
+B. Accrual basis
+C. Modified accrual basis
+D. Full accrual basis
+<A>C
+
+<Q>36. Which of the following is different in state and local government accounting from full accrual basis?
+A. Timing of expenses
+B. Timing of revenue
+C. Discounting of cashflows
+D. Cost of capital assets
+<A>A
+
+<Q>37. Which of the following is not produced by state and local governments as part of their basic financial statement and required supplementary information?
+A. Statement of net assets
+B. Statement of activities
+C. Statement of accountability
+D. Management’s discussion and analysis
+<A>C
+
+<Q>38. Governmental fund financial statements are produced using the:
+A. Modified accrual resource measurement focus
+B. Current accrual resource measurement focus
+C. Current financial resources measurement focus
+D. Economic resources measurement focus
+<A>C
+
+<Q>39. Proprietary fund reporting statements prepared by state and local governments should include which of the following:
+A. Funds associated with multi-year road maintenance
+B. Funds associated with servicing a 30-year bond
+C. Funds associated with a municipal utility
+D. Funds associated with a public employee pension plan
+<A>C
+
+<Q>40. Fiduciary fund reporting statements prepared by state and local governments should include which of the following:
+A. Funds associated with multi-year road maintenance
+B. Funds associated with servicing a 30-year bond
+C. Funds associated with a municipal utility
+D. Funds associated with a public employee pension plan
+<A>D
+
+<Q>41. State and local governments are not required to disclose which of the following information in the notes to the financial statements?
+A. The method of accounting for encumbrances
+B. Descriptions of the activities accounted for in the major funds, internal service funds, and fiduciary funds
+C. Actions taken to correct material or significant non-compliance with legal or contractual financial compliance
+D. The length of time used to define “available” for the purpose of revenue recognition in the governmental fund financial statements
+<A>A
+
+<Q>42. For state and local governments, management’s discussion and analysis does not include:
+A. Description of the financial statements
+B. Economic conditions and outlook
+C. Reconciliation of fund financial statements to government-wide financial statements
+D. Major capital asset and long-term debt initiatives during the year
+<A>C
+
+<Q>43.  Which of the following is not included in state and local governments’ supplementary budgetary comparison schedule?:
+A. Original budget
+B. Final budget
+C. Actual amounts
+D. Variances between final and actual budgets
+<A>D
+
+<Q>44. Which of the following is not a required supplementary information for state and local governments’ financial statements?:
+A. Budgetary information
+B. Infrastructure information
+C. Pension information
+D. Combined statements for non-major funds
+<A>D
+
+<Q>45. Which of the following conditions would require the blended presentation method for state or local government financial presentation to be used?:
+
+Condition I. The component unit’s governing body is substantively the same as that of the primary government
+Condition II. The component unit serves or otherwise benefits the primary government exclusively or almost exclusively
+
+A. Only Condition I
+B. Only Condition II
+C. Condition I or Condition II
+D. Condition I and Condition II
+<A>C
+
+<Q>46. Which type of asset would be found on both fund-level and government-wide financial statements?
+A. Bridges
+B. Vehicles
+C. Streets
+D. Gutters
+<A>B
+
+<Q>47. For state and local government financial statements, general long-term liabilities are reported:
+A. On the government-wide statement of net assets
+B. On the proprietary fund statement of net assets
+C. On the fiduciary fund statement of fiduciary net assets
+D. On the governmental fund balance sheet
+<A>A
+
+<Q>48. Where should special items be reported on state and local governments’ financial statements?
+A. Only disclosed in the notes
+B. Reported separately in the statement of activities, after extraordinary items
+C. Reported separately in the statement of activities, before extraordinary items
+D.  Reported in the primary government section of the statement of activities
+<A>C
+
+<Q>49. The budgetary comparison in the required supplementary budgetary information for state and local government financial statements may not:
+A. Use GAAP format
+B. Use budgetary format
+C. Exclude a reconciliation to GAAP
+D. Utilize the budgetary basis of accounting
+<A>C
+
+<S>AUD
+<Q>1. Issuer audits ______ be conducted in accordance with PCAOB standards; nonissuer audits _______ be conducted in accordance with PCAOB standards.
+A. Must; may
+B. May; must
+C. Must; may not
+D. May; must not
+<A>A
+
+<Q>2. Which of the following is a not reporting requirement for financial audits under Government Accountability Office Government Auditing Standards?
+A. Inclusion of an affirmative statement of compliance with GAGAS or explanation of modified GAGAS compliance
+B. Written report on the auditor’s understanding of internal controls only if significant deficiencies are identified
+C. Description of omitted information
+D. Description of the scope of the auditor’s testing of compliance with laws and regulations
+<A>B
+
+<Q>3. Which of the following is required for both review and attestation engagements?
+A. Testing of internal controls
+B. Assessment of fraud risk
+C. Performance of analytical procedures to detect unusual items or relationships
+D. Performance audit tests
+<A>C
+
+<Q>4. Which of the following is not a principle of professional conduct in the AICPA’s Code of Professional Conduct?
+A. Independence in private practice
+B. Integrity
+C. Due care
+D. Serving the public interest
+<A>A
+
+<Q>5. Which of the following is not an example of a situation that would impair independence?
+A. An attest partner holds the stock of an attestation client in a blind trust
+B. An attest associate holds a material interest in shares of a mutual fund that invests in an attestation client
+C. An attest manager’s spouse serves on the board of directors for an attestation client
+D. An attest partner’s child has a fully collateralized car loan with a financial institution attestation client
+<A>D
+
+<Q>6. The PCAOB has adopted interim ethics standards based on:
+A. The AICPA’s Code of Professional Conduct Rule 101
+B. The AICPA’s Code of Professional Conduct Rule 102
+C. SEC Regulation S-X, Rule 2-01
+D. The Independence Standards Board
+<A>B
+
+<Q>7. Which of the following situations would not present a threat to an auditor’s or accounting firm’s ethical requirements of the PCAOB?
+A. An audit partner serves on the board of directors of a nonprofit social club that is an audit client
+B. The firm’s consulting branch provides transaction consulting services with a contingent fee to an audit client
+C. An audit partner becomes a member trade association that is a client of the firm
+D. A tax partner at the firm provides personal financial planning services for a client and suggests investment in a business in which the partner has a financial interest
+<A>C
+
+<Q>8.The ethical principles that guide the work of auditors who conduct engagements in accordance with GAGAS include all of the following, except:
+A. Public interest
+B. Independence in appearance, but not in mind
+C. Integrity
+D. Professional behavior
+<A>B
+
+<Q>9. In which of the following situations would an accountant be considered independent with respect to the employee benefit plan that they audit for the Department of Labor?
+Situation I. The accountant’s firm had a direct material interest in the plan sponsor
+Situation II. A partner of the accountant’s firm serves as a voting trustee of the plan
+Situation III. Another member of the accountant’s firm maintains financial records for the plan
+
+A. None
+B. Situation II only
+C. Situation III only
+D. Situations I and II
+<A>A
+
+<Q>10. Which of the following is an accurate statement regarding professional skepticism?
+A. It only needs to be exercised at the start of the audit.
+B. It assumes that management is dishonest.
+C. It requires the auditor to consider the competency and sufficiency of evidence
+D.  It is in direct opposition with due care
+<A>C
+
+<Q>11. Which of the following is not a threat or impediment to acting with professional skepticism?
+A. Motivated reasoning
+B. Source credibility bias
+C. Deadline pressure
+D. Quality control reviews
+<A>D
+
+<Q>12.Prior to accepting an engagement, a successor auditor should make inquiries to the predecessor auditor regarding all of the following, except:
+A. Information related to management’s integrity
+B. Communication made to management  regarding fraud, internal control matters, or illegal acts by the client
+C. Reviewing the predecessor’s audit documentation
+D. Disagreements with management relating to audit procedures, accounting principles, or other similar matters
+<A>C
+
+<Q>13. The decision to accept or continue an engagement should include consideration of all of the following, except:
+
+A. Sufficiency and availability of client accounting records
+B. Independence
+C. Risk that the engagement will be unprofitable
+D. The applicable standards framework
+<A>D
+
+<Q>14. Which of the following are acceptable reasons to change an engagement from an audit to a compilation or review?
+Reason I. The client’s requirements have changed
+Reason II. There was a misunderstanding between the auditor and the client as to the nature of the services to be provided
+Reason III. The engagement would uncover fraud
+Reason IV. The client will not provide a signed representation letter
+
+A. Reasons II only
+B. Reasons I and II
+C. Reasons II and III
+D. Reasons I, II, and IV
+<A>B
+
+<Q>15. Documentation of an audit engagement should be sufficient to enable an experienced auditor with no prior connection to the engagement to understand which of the following?:
+I. The audit evidence obtained
+II. The nature, timing, and extent of the audit procedures performed
+III. Significant issues that arose during the audit
+
+A. I and II
+B. II and III
+C. I, II, and III
+D. None
+<A>C
+
+<Q>16.  What is the minimum retention period for the final audit file?
+A. 60 days after the report release date
+B. 1 year after the report release date
+C. 5 years after the report release date
+D. 7 years after the report release date
+<A>C
+
+<Q>17. With respect to a financial statement audit, the auditor should communicate all of the following to those charged with governance, except:
+A. That the audit relieves management of their governance responsibilities
+B. The timing of the audit
+C. Disagreements with management
+D. Significant unusual transactions identified by the auditor
+<A>A
+
+<Q>18. A material weakness for a public company is a deficiency, or combinations of deficiencies, in internal control over financial reporting, such that there is a ________ that a material misstatement of the financial statements will not be _________ on a timely basis.
+
+Select the option that includes the correct answers for the blanks above.
+
+A. Possibility; prevented or detected
+B. Possibility; prevented, or detected and corrected
+C. Reasonable possibility; prevented or detected
+D. Reasonable possibility; prevented, or detected and corrected
+<A>C
+
+<Q>19. Which of the following is not an element of quality control?
+A. Client acceptance and continuance
+B. Human resources
+C. Monitoring
+D. Profitability
+<A>D
+
+<Q>20. Which of the following statements regarding audit engagement planning is incorrect?
+A. The engagement partner is responsible for the planning and performance of an engagement
+B. Planning is a discrete phase of the audit
+C. The auditor should establish an understanding of the terms of the engagement with the audit committee
+D. The auditor should determine compliance with independence requirements
+<A>B
+
+<Q>21. Which of the following statements regarding SOC for Service Organizations are correct?
+I. SOC 1 reports are general use reports intended to be freely distributed
+II. There are two types of SOC 2 reports
+III. Both SOC 1 and SOC 2 reports relate to controls relevant to financial reporting
+
+A. I only
+B. II only
+C. I and II
+D. II and III
+<A>B
+
+<Q>22. Which of the following statements regarding internal controls is false?
+A. They may be manual or automated
+B. They provide absolute assurance
+C. They are inherently limited
+D. The effectiveness of the design and operation of them impacts control risk
+<A>B
+
+
+<Q>23. The materiality level for the financial statements as a whole:
+A. Must be expressed as a specified amount
+B. May be expressed as a range
+C. Is established by the audit client
+D. Does not impact the nature, timing, and extent of audit procedures
+<A>A
+
+<Q>24. Which of the following statements is correct?
+A. Tolerable misstatement is the application of performance materiality to a particular  sampling procedure.
+B. Tolerable misstatement may never be the same amount as performance materiality
+C. Performance materiality must not be less than materiality for the financial statements as a whole.
+D. Tolerable misstatement is expressed as a percentage
+<A>A
+
+<Q>25. Which of the following factors should not be considered when determining the extent to which an engagement team can use the work of an internal auditor?
+A. The internal auditor’s competence
+B. The internal auditor’s objectivity
+C. The internal auditor’s determination of materiality
+D. The risk of material misstatement related to the internal auditor’s assertions
+<A>C
+
+<Q>26. With respect to illegal acts committed by the audit client, the auditor is always responsible for:
+
+A. Detecting and reporting material effects or misstatements of financial statement amounts resulting from those acts
+B. Detecting whether the acts are illegal per se
+C. Assuring that any contingent liabilities related to illegal acts are disclosed
+D. Detecting and reporting illegal acts
+<A>A
+
+<Q>27. Accountants are responsible for considering laws and regulations to the extent that the laws and regulations:
+A. Are generally recognized to have a direct and material effect on financial statement amounts
+B. Relate more to the entity’s operations than finance or accounting
+C. Apply to the personal non-business activities engaged in by the entity’s personnel
+D. Are not applicable to the entity
+<A>A
+
+<Q>28. Which of the following is not a possible indication of management bias with respect to accounting estimates?
+A. Management’s selection of data that yield an estimate that is favorable for management objectives
+B. Management’s selection of a point estimate that indicates a pattern of optimism
+C. A change to an accounting method due to new regulations
+D. A change in accounting estimates based on management’s assertion of a change in circumstances
+<A>C
+
+<Q>29. _________ sampling is typically used in testing internal controls, while __________ sampling is primarily used in substantive testing.
+A. Variables; attribute
+B. Attribute; variables
+C. Random; statistical
+D. Statistical; random
+<A>B
+
+<Q>30. Which of the following disclosures related to the fair value of investments in securities is required for a nonissuer?
+A. Purchases and issuances for each class of investments
+B. Rollfoward of recurring level 3 fair value measurements
+C. Disclosures for financial instruments not measured at fair value
+D. The range and weighted average of significant unobservable inputs
+<A>A
+
+<Q>31. Procedures related to the auditor’s assessment of the entity as a going concern include which of the following?
+I. Reviewing debt and loan agreement terms
+II. Making inquiries to the entity’s legal counsel
+III. Performing analytical procedures
+IV. Making inquiries to the entity’s management
+
+A. II only
+B. I and III
+C. I, II, and III
+D. I, II, III, and IV
+<A>C
+
+
+<Q>32. Which of the following is not a written representation that should be obtained from management or those charged with governance in a financial statement audit engagement?
+A. That all transactions have been recorded and are reflected in the financial statements
+B. That all knowledge of actual or suspected fraud involving management has been disclosed
+C. That the auditor is responsible for the detection of fraud
+D. That the auditor was provided with all relevant information and access as agreed upon in the terms of the audit engagement
+<A>C
+
+<Q>33. If, after an audit report is issued, an auditor becomes aware of information that materially impacts the financial statements, the auditor should not:
+A. Advise the client to issue revised financial statements
+B. Advise the client to make appropriate disclosures and revise any imminent financial statements
+C. Notify the client’s board of directors if management refuses to follow the appropriate procedures
+D. Address the matter during the next audit
+<A>D
+
+<Q>34. Which of the following is not taken into account when an auditor forms an opinion?
+A. Whether sufficient audit evidence has been obtained
+B. Whether corrected misstatements were collectively material
+C. Whether the financial statements are prepared in accordance with the applicable financial reporting framework
+D. Whether uncorrected misstatements are individually or collectively material
+<A>B
+
+<Q>35. An auditor should issue a(n) _________ opinion when the materiality of the non-conformance with GAAP is _________.
+A. Unqualified; material
+B. Qualified; immaterial
+C. Qualified; material
+D. Disclaimer of; highly material
+<A>C
+
+<Q>36. When an auditor is unable to obtain sufficient audit evidence to support management’s assertions about presentation of a matter in the financial statements, this can be reflected in the audit report:
+A. By expressing an unqualified opinion
+B. By issuing an adverse opinion
+C. By explaining the scope limitation in the notes of the financial statements
+D. By disclaiming an opinion due to of a scope limitation
+<A>D
+
+<Q>37. If an auditor includes emphasis-of-matter paragraphs in the auditor’s report, they should not:
+A. Include a reference to information presented outside of the financial statements
+B. Include “Emphasis of Matter” in the heading
+C. Include a reference to the matter being emphasized
+D. Indicate that their opinion is not modified with respect to the matter emphasized
+<A>A
+
+<Q>38. Which of the following is not a factor that an auditor should consider when forming an opinion on the effectiveness of internal control?
+A. The frequency with which the control operates
+B. The materiality of the misstatements that the control is intended to correct
+C. Whether the control is manual or automated
+D. The inherent risk associated with the related account and assertion
+<A>B
+
+<Q>39. Which of the following are correct statements regarding reports on a company’s financial statements and on internal control over financial reporting?
+I. The auditor may choose whether to issue a combined report or separate reports
+II. If the auditor issues separate reports, an additional paragraph immediately following the opinion paragraph is added to the report
+III. If the auditor issues separate reports, an additional paragraph immediately preceding the opinion paragraph is added to the report
+
+A. None of the statements are correct
+B. I only
+C. I and II
+D. I and III
+<A>C
+
+<Q>40. Which of the following should be included in an examination report, but not a review report for an attestation engagement?
+A. An opinion
+B. A statement restricting the use to specified parties
+C. A statement that the subject matter covered is the responsibility of the responsible party
+D. A title that includes the word “independent”
+<A>A
+
+<Q>41. Which of the following is not a condition required for agreed-upon procedures attestation engagements?
+A. Independence of the accountant, unless the practitioner is required by law or regulation to perform the engagement
+B. A written assertion
+C. The procedures to be applied are expected to result in reasonably consistent findings
+D. If applicable, the accountant will apply the client’s established threshold for reporting exceptions
+<A>B
+
+<Q>42. What type of report from a service auditor may provide the user auditor with evidence to reduce the assessed level of control risk?
+A. Report on controls placed in operation and tests of operating effectiveness
+B. Report on controls placed in operation
+C. Professional internal audit standards report
+D. Report on control materiality
+<A>A
+
+<Q>43. As part of a preparation engagement, all of the following should be considered, except:
+A. Significant accounting policies intended to be used in the preparation
+B. Identification of the applicable financial reporting framework to be used
+C. Whether the accountant is independent
+D. The objective of the engagement
+<A>C
+
+<Q>44.  In a compilation, the accountant’s report should include all of the following, except:
+A. A statement that the accountant has reviewed the financial statements
+B. A statement that the accountant has not audited the financial statements
+C. A statement that the compilation is limited to information represented by the entity’s management
+D. A disclaimer of opinion and statement that the accountant gives no assurance on the financial statements
+<A>A
+
+<Q>45. In a review, the accountant’s report should include all of the following, except?
+A. A statement that no opinion is expressed
+B. A statement that the review is substantially less in scope than an audit
+C. A statement that all financial statement information is the representation of the accountant
+D. A statement that the accountant is not aware of any material modifications, other than those indicated in the report, that would be required to be made for the financial statements to be in conformity with GAAP
+
+<A>C
+
+<Q>46. An auditor’s report on compliance with aspects of contractual agreements or regulatory requirements should not:
+A. Be included in the auditor’s report on the financial statements
+B. State that the report is being provided in connection with the audit of the financial statements
+C. Indicate that the auditor is independent
+D. State that the audit was primarily directed towards obtaining knowledge regarding compliance
+<A>D
+
+<Q>47. Which of the following is not a condition that must be met in order for a practitioner to perform an examination engagement related to an entity’s compliance with specified requirements?
+A. The responsible party has evaluated the entity’s compliance with specified requirements
+B. The responsible party accepts responsibility for the compliance with specified requirements
+C. Sufficient evidence exists or could be developed to support management’s evaluation
+D. The examination is required by law or regulation
+<A>D
+
+<Q>48. Which of the following instances would not require an auditor to explicitly refer to consistency in the audit report?
+A. When there is an adjustment to correct a material misstatement in previously issued financial statements
+B. When a change in accounting principles has occurred, but is immaterial
+C. When a change in accounting principles is accounted for by retrospective application and the audit report is for the period in which such change occurred
+D. When an investment accounted for by the equity method makes a change in accounting principle that is material to the investing entity’s financial statements
+<A>B
+
+<Q>49. What is the auditor’s responsibility with respect to other information included in documents with audited financial statements?
+A. To express an opinion on the other information
+B. To consider whether there is material inconsistency between the other information and the financial statements
+C. To search for omitted information
+D. To incorporate the other information into the financial statements
+<A>B
+
+<Q>50. A review of interim financial statements should include consideration of which of the following?:
+I. Changes in the entity’s business activities
+II. Audit documentation of the preceding year’s audit
+III. Auditor’s corroboration of management’s responses and evidence
+
+A. I only
+B. II only
+C. I and II
+D. I, II, and III
+<A>C
+
+<Q>51. When engaged to give an opinion on whether supplementary information is fairly stated, in all material respects, in relation to the financial statements as a whole, all of the following conditions must be met, except:
+A. The auditor has issued an audit report on the financial statements that contains a disclaimer of opinion
+B. The supplementary information relates to the same period as the financial statements
+C. The supplementary information will be included with the audited financial statements or will be made readily available
+D. The supplementary information was derived from, and relates directly to, the underlying accounting records used to prepare the financial statements
+<A>A
+
+<Q>52. Under GAGAs, an auditor should report on internal control and compliance with provisions of laws, regulations, contracts, or grant agreements:
+A. Only when they identify internal control deficiencies
+B. Only when they identify issues of noncompliance
+C. Only when they do not identify internal control deficiencies or issues of noncompliance
+D. Regardless of whether or not they identify internal control deficiencies or issues of noncompliance
+<A>D
+
+<Q>53. If an auditor is reporting on financial statements prepared in accordance with a financial reporting framework generally accepted in another country and the report is intended for use outside the US, they can report using the report form and content of the other country provided that which of the following conditions have been met?:
+Condition I. The form and content of the report would be issued by auditors in the other country in similar circumstances
+Condition II. The auditor understands and has obtained sufficient appropriate audit evidence to support the statements contained in the report
+Condition III. The auditor has identified the other country in the report and has complied with its reporting standards
+
+A. Only Condition I
+B. Only Condition II
+C. Condition I or Condition II
+D. Conditions I, II, and III
+<A>D
+
+<Q>54. An auditor could issue an unqualified opinion on financial statements prepared in conformity with which of the following non-GAAP methods?
+A. Tax basis
+B. Cash basis
+C. A set of criteria determined by management that is applied to certain material items
+D. A basis used to comply with the requirements of a governmental regulatory agency that has  jurisdiction over the entity
+<A>C
+
+<S>BEC
+<Q>1. COSO’s definition of ERM includes which of the following elements?:
+
+Element I. Culture, capabilities, and practices
+Element II. Strategy-setting and performance
+Element III. Management of risk
+Element IV. Creation, preservation, and realization of value
+
+A. I and II
+B. I, II, and III
+C. II, III, and IV
+D. I, II, III, and IV
+<A>D
+
+<Q>2. Which of the following is not a component of the COSO ERM framework?
+A. Governance and culture
+B. Strategy and objective-setting
+C. Review and revision
+D. Control activities
+<A>D
+
+<Q>3. Which of the following principles is not associated with the management of compliance risks under the COSO ERM framework?
+A. Formulate business objectives
+B. Implement risk responses
+C. Analyze business context
+D. Define risk appetite
+<A>B
+
+
+<Q>4. COSO defines internal control as a(n) _______, effected by an entity’s board of directors, management, and other personnel, designed to provide ____________ assurance regarding the achievement of objectives related to operations, reporting, and compliance.
+
+Which of the following options correctly answers all of the blanks in the sentences above?
+
+A. Process; absolute
+B. Process; reasonable
+C. End-state; absolute
+D. End-state; reasonable
+<A>B
+
+<Q>5. The COSO Internal Control Framework includes all of the following components, except:
+A. External assessment
+B. Control environment
+C. Control activities
+D. Monitoring
+<A>A
+
+<Q>6. Which of the following is not a major internal control provision of the Sarbanes-Oxley Act of 2002?
+A. Section 202 - safeguards
+B. Section 203 - audit partner rotation
+C. Section 302 - corporate responsibility for financial reports
+D. Section 404 - management assessment of internal controls
+<A>A
+
+
+<Q>7. Which of the following is not an objective of an accounting information system?
+A. Record transactions at the correct value
+B. Establish an audit trail
+C. Automate strategic decisions
+D. Properly present the transactions
+<A>C
+
+<Q>8. A company requires purchasing associates to request approval from the purchasing manager for all purchases over $5,000. This is an example of what type of control?
+
+A. A manual preventative control
+B. A manual detective control
+C. An automated preventative control
+D. An automated detective control
+<A>A
+
+<Q>9. Which of the following is an example of a leading economic indicator?
+A. Prime rate charged by banks
+B. Industrial production
+C. Index of consumer expectations
+D. Average duration of unemployment
+<A>C
+
+
+<Q>10. In a market structure with monopolistic competition, the barriers to entry are _____ and the long-run economic profit is ________.
+
+Which of the following options correctly answers all of the blanks in the sentences above?
+
+A. High; positive
+B. High; zero
+C. Low; positive
+D. Low; zero
+<A>D
+
+<Q>11. Which of the following elements is not part of the formula for calculating the cost of retained earnings using the Capital Asset Pricing Model?
+A. The risk-free rate
+B. The pre-tax cost of long-term debt
+C. The company’s beta coefficient
+D. The market risk premium
+<A>B
+
+<Q>12. A firm’s degree of financial leverage is equal to:
+A. The percentage change in earnings per share divided by the percentage change in earnings before interest and taxes
+B. Earnings per share divided by earnings before interest and taxes
+C. The percentage change in earnings before interest and taxes divided by the percentage change in sales
+D. Sales divided by earnings before interest and taxes
+
+<A>A
+
+<Q>13. With respect to calculating product cost, what is included in absorption costing that is not included in variable costing:
+
+A. Direct labor
+B. Direct materials
+C. Fixed manufacturing overhead
+D. Variable manufacturing overhead
+<A>C
+
+<Q>14. For which of the following areas would an accounting estimate be prepared?
+A. Long-term debt
+B. Cash
+C. Wages
+D. Goodwill impairment
+<A>D
+
+<Q>15. For internal control purposes, software developers should not:
+A. Write applications
+B. Have write access to data in production systems
+C. Maintain applications
+D. Receive security awareness training
+<A>B
+
+<Q>16. Which element is not a component of a business information system?
+A. Cryptography
+B. Data
+C. Network(s)
+D. Software
+<A>A
+
+
+<Q>17. All of the following factors should be considered when selecting a cloud computing service provider, except:
+A. Whether the service provider undergoes an independent assessment of security and controls, such as a SOC 2 audit
+B. Whether the service provider has service level agreements for uptime
+C. The service provider’s depreciation method
+D. The service provider’s physical controls
+<A>C
+
+<Q>18. Inadequate change management processes and change controls could result in all of the following, except:
+A. An unauthorized individual making changes to a production environment
+B. Misclassification of data
+C. A mismatch between the code and the documentation
+D. Introduction of vulnerabilities
+<A>B
+
+<Q>19.  A network administrator’s failure to configure encryption on a new information system is an example of a:
+
+A. Strategic risk
+B. Operating risk
+C. Financial risk
+D. Information risk
+<A>D
+
+<Q>20. Which of the following is not a step in a disaster recovery plan?:
+A. Identify critical data and applications
+B. Determine roles and responsibilities for personnel involved in the recovery process
+C. Issue digital certificates
+D. Test the plan
+<A>C
+
+<Q>21. With respect to a data governance program, which of the following is not a valid practice related to customer data?
+A. Reporting a data breach
+B. Mapping the data throughout systems and applications
+C. Classifying data by level of sensitivity
+D. Storing unencrypted social security numbers
+<A>D
+
+<Q>22. In the context of data management and relationships, what does ETL stand for?
+
+A. Examine, transport, leverage
+B. Extract, transform, load
+C. Errors, transactions, logical data
+D. Evaluate, translate, localize
+<A>B
+
+
+<Q>23. What type of database uses keys and requires normalization?
+A. Relational database
+B. Object-oriented database
+C. NoSQL database
+D. Hierarchical database
+<A>A
+
+<Q>24. __________ are designed to store large quantities of data; ___________ only store the most recent data.
+
+Which of the following options correctly answers all of the blanks in the sentences above?
+
+A. Operational data stores; data lakes
+B. Operational data stores; transitional databases
+C. Data lakes; operational data stores
+D. Data lakes; transitional databases
+<A>C
+
+<Q>25. Which of the following capabilities is generally needed for a visualization tool?
+A. Integration into client systems
+B. Ability to connect data from different sources
+C. Encryption of reports
+D. Statistical sampling
+<A>B
+
+<Q>26. Which of the following is not an example of a data visualization technique?
+A. Scatter plots
+B. Bar charts
+C. Correlation matrices
+D. Database hallucination
+<A>D
+
+
+<Q>27. Which of the following is not a step in the business process management lifecycle?
+A. Analysis
+B. Project-specific configuration
+C. Implementation
+D. Automation
+<A>B
+
+
+<Q>28. Which of the following is not a common philosophy for the application of business process management?
+A. Uniqueness-focused
+B. People-focused
+C. Document-focused
+D. Integration-focused
+<A>A
+
+<Q>29.  ______ requires that public companies file their financial statements in ______.
+
+Which of the following options correctly answers all of the blanks in the sentences above?
+
+A. Regulation Fair Disclosure (Reg FD); Excel
+B. Regulation Fair Disclosure (Reg FD); XBRL
+C. Interactive Data Rule; Excel
+D. Interactive Data Rule; XBRL
+<A>D
+
+<Q>30. Which is the following is not an example of a filing required by the Securities and Exchange Commission?
+A. Form 8-K
+B. Form 8-Q
+C. Form 10-K
+D. Form 10-Q
+<A>B
+
+<Q>31. What technique allows users to examine how a model outcome changes when a model input changes?
+A. Model differentiation
+B. Simulation analysis
+C. Sensitivity analysis
+D. Outcome deviation
+<A>C
+
+<Q>32. Which technique is intended to convert input data into a unique representation of the data?
+A. Scrambling
+B. Hashing
+C. Encryption
+D. Dicing
+<A>B
+
+<Q>33. Which of the following can a firewall perform?
+A. Prevent OP traffic from a sub LAN
+B. Prevent IP traffic from a network
+C. Prevent porting activation in hardware
+D. Prevent encryption in storage
+<A>B
+
+<Q>34. Which of the following is an example of a lagging economic indicator?
+A. Prime rates charged by banks
+B. Money supply
+C. Index of consumer expectations
+D. Manufacturing and trade sales
+<A>A
+
+
+<Q>35. Which of the following is not included in the income approach measurement of GDP?
+A. Rental income
+B. Depreciation
+C. Wages
+D. Net exports
+<A>D
+
+
+<Q>36. When do cost leadership strategies fail?
+A. In markets where buyers have significant bargaining power
+B. In markets with heavy price competition
+C. When consumers desire improvements over low costs
+D. When the consumers’ cost to switching products is low
+<A>C
+
+
+<Q>37. All else equal, rising interest rates generally result in a:
+A. A decrease in the relative value of a currency
+B. An increase in the relative value of a currency
+C. An increase in capital controls
+D. A decrease in capital controls
+<A>B
+
+<Q>38. Diversifiable risk:
+A. Is attributable to market factors
+B. Cannot be eliminated through diversification
+C. Is the portion of a single asset’s risk that is associated with random cause
+D. Is also known as systematic risk
+<A>C
+
+<Q>39. What is treasury stock?
+A. Shares that have been authorized, but not yet issued
+B. Shares in governmental bonds
+C. Shares that have been issued and repurchased by the company
+D. Shares that have been purchased by shareholders
+<A>C
+
+<Q>40. When ____ occurs, the present value of long-term debt generally ____.
+
+Which of the following options correctly answers all of the blanks in the sentences above?
+
+A. Inflation; decreases
+B. Inflation; extends
+C. Deflation; shortens
+D. Deflation; decreases
+<A>A
+
+
+<Q>41. When short-term debt instruments bear higher interest rates than longer-dated ones, a market is currently experiencing a(n):
+A. Recession
+B. Depression
+C. Inverted yield curve
+D. Expanding yield curve
+<A>C
+
+
+<Q>42. The Federal Reserve does not have the power to:
+A. Increase the reserve ratio required by participating financial institutions
+B. Disseminate technical guidance to market participants
+C. Issue stock in regional systems to nationally-chartered banks
+D. Issue government debt to market participants
+<A>D
+
+
+<Q>43. When price elasticity of demand is inelastic, total revenue ________ as price ________.
+
+Which of the following options correctly answers all of the blanks in the sentences above?
+
+A. Does not change; increases
+B. Does not change; decreases
+C. Increases; increases
+D. Decreases; increases
+<A>C
+
+
+<Q>44. A control chart is a visualization that might display how ____ varies across  _____.
+
+Which of the following options correctly answers all of the blanks in the sentences above?
+
+A. Mean quality; day
+B. Median price; week
+C. Variance of activity; region
+D. Total production; department
+<A>A
+
+<Q>45. Which of the following is an example of a logical control?
+A. Security alarm
+B. ID badge
+C. Password
+D. Door lock
+<A>C
+
+<Q>46. What term is defined as the potential of harm or loss?
+A. Threat
+B. Risk
+C. Vulnerability
+D. Damages
+<A>B
+
+<Q>47. Under the COSO internal control framework, the board of directors is responsible for all of the following, except:
+A. Establishing tone at the top
+B. Demonstrating independence from management
+C. Exercising oversight over the development and performance of internal control
+D. Testing internal controls
+<A>D
+
+<Q>48. Which of the following is an example of software?
+A. Central processing unit
+B. Input device
+C. Operating system
+D. Network interface card
+<A>C
+
+<Q>49. The final deliverable produced by a SOC 2 engagement is a:
+A. Certificate
+B. Audit report
+C. Evidence report
+D. Report card
+<A>B
+
+<Q>50. What is the term for the visual displays of data relationships, trends, and other insights?
+A. Data visualization
+B. Decision visualization
+C. Metadata
+D. Data discovery
+<A>A

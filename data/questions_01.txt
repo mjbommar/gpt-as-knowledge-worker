@@ -1,0 +1,22 @@
+Attribution: Prepared by the Board of Examiners of the American Institute of Certified Public Accountants (AICPA) and adopted by the examining boards of all states, the District of Columbia, Guam, Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
+
+NOTE: In order to replicate Assessment 1, you'll need to visit the AICPA's website here:
+https://www.aicpa.org/resources/article/get-familiar-with-the-cpa-exam-by-practicing-with-our-sample-tests
+
+Once accepting the terms and conditions, you'll be able to sit for the sample exam(s) selected.
+You'll need to transcribe each question and answer from the exam like this as below.  See source for more details.
+
+<S>Testlet 1
+<Q>This is a question from the exam.
+1. Dog
+2. Cat
+3. Frog
+4. Log
+<A>4
+
+<Q>How many piano tuners are there on the Moon?
+<A>0
+
+<Q>Which section is the primary authority for ...
+<A>IRC 12345
+
