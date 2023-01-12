@@ -1,5 +1,5 @@
 ## GPT as Knowledge Worker: A Zero-Shot Evaluation of (AI)CPA Capabilities
-### Links: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4322372), arxiv pending
+### Links: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4322372), [arXiv:2301.04408](https://arxiv.org/abs/2301.04408)
 ### Authors:
 <div style="font-size: 1.2em; text-align: center; padding-top: 4px; padding-bottom: 8px; border-bottom: 4px solid rgba(0.5, 0.5, 0.5, 0.25);">
     <span><a href="" target="_blank">Jillian Bommarito</a></span>, 
