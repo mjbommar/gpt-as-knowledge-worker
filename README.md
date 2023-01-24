@@ -1,8 +1,6 @@
-<div style="font-size: 2em;text-align: center; padding-bottom: 8px;">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4322372"><span>GPT as Knowledge Worker</span></a>
-    <br />
-    <span>A Zero-Shot Evaluation of (AI)CPA Capabilities</span>
-</div>
+## GPT as Knowledge Worker: A Zero-Shot Evaluation of (AI)CPA Capabilities
+### Links: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4322372), [arXiv:2301.04408](https://arxiv.org/abs/2301.04408)
+### Authors:
 <div style="font-size: 1.2em; text-align: center; padding-top: 4px; padding-bottom: 8px; border-bottom: 4px solid rgba(0.5, 0.5, 0.5, 0.25);">
     <span><a href="" target="_blank">Jillian Bommarito</a></span>, 
     <span><a href="" target="_blank">Michael Bommarito</a></span>,
@@ -10,8 +8,9 @@
     <span><a href="" target="_blank">Jessica Katz</a></span><br />
     <span><a href="" target="_blank">273 Ventures, LLC</a></span>
 </div>
+
+### Abstract
 <div style="width: 95%; font-size: 1.1em;text-align: justify; padding-left: 16px; padding-right: 4px;">
-    <p>Abstract:</p>
     <p>
         The global economy is increasingly dependent on knowledge workers to meet the needs of public and private
         organizations. While there is no single definition of knowledge work, organizations and industry groups still
